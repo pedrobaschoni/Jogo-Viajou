@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta name="description" content="VIAJOU! O jogo de chutar números e blefar com a família. Cada um joga no próprio celular.">
+  <meta name="theme-color" content="#150B33">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="VIAJOU!">
+  <meta property="og:title" content="VIAJOU!">
+  <meta property="og:description" content="Chute alto, blefe bonito e não viaje demais. Bora jogar?">
+  <meta property="og:image" content="icons/Icon-512.png">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="manifest" href="manifest.json">
+  <title>VIAJOU!</title>
+  <style>
+    html, body { margin: 0; height: 100%; background: #150B33; overscroll-behavior: none; }
+    #splash {
+      position: fixed; inset: 0; z-index: 9999;
+      display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 22px;
+      background: radial-gradient(circle at 25% 5%, #3D1D80 0%, #150B33 55%, #0A0520 100%);
+      transition: opacity .4s ease;
+    }
+    #splash .logo {
+      font: 900 clamp(48px, 14vw, 96px)/1 "Arial Black", Impact, system-ui, sans-serif;
+      color: #FFF4DF; letter-spacing: 2px;
+      -webkit-text-stroke: 6px #0E0722; paint-order: stroke fill;
+      text-shadow: 0 7px 0 #FF4F8B;
+      animation: bob 1.6s ease-in-out infinite;
+    }
+    #splash .logo span { color: #FFC93C; }
+    #splash .dots { display: flex; gap: 10px; }
+    #splash .dots i {
+      width: 14px; height: 14px; border-radius: 50%; background: #FFF4DF; border: 3px solid #0E0722;
+      animation: hop 1s ease-in-out infinite;
+    }
+    #splash .dots i:nth-child(2) { animation-delay: .15s; background: #FFC93C; }
+    #splash .dots i:nth-child(3) { animation-delay: .3s; background: #FF4F8B; }
+    @keyframes bob { 50% { transform: translateY(-8px) rotate(-2deg); } }
+    @keyframes hop { 50% { transform: translateY(-12px); } }
+    @media (prefers-reduced-motion: reduce) { #splash .logo, #splash .dots i { animation: none; } }
+  </style>
+</head>
+<body>
+  <div id="splash" aria-label="Carregando">
+    <div class="logo">V<span>I</span>A<span>J</span>O<span>U</span>!</div>
+    <div class="dots"><i></i><i></i><i></i></div>
+  </div>
+  <script>
+    window.addEventListener('flutter-first-frame', function () {
+      var s = document.getElementById('splash');
+      if (!s) return;
+      s.style.opacity = '0';
+      setTimeout(function () { s.remove(); }, 450);
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

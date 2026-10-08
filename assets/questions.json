@@ -1,0 +1,2058 @@
+[
+ {
+  "id": "b000",
+  "c": "brasil",
+  "q": "Quantos estados tem o Brasil, sem contar o Distrito Federal?",
+  "a": 26,
+  "u": "estados",
+  "f": "São 26 estados mais o Distrito Federal: 27 unidades federativas."
+ },
+ {
+  "id": "b001",
+  "c": "brasil",
+  "q": "Quantas estrelas aparecem na bandeira do Brasil?",
+  "a": 27,
+  "u": "estrelas",
+  "f": "Uma para cada estado e uma para o DF. Elas mostram o céu do Rio na manhã de 15 de novembro de 1889."
+ },
+ {
+  "id": "b002",
+  "c": "brasil",
+  "q": "Com quantos países o Brasil faz fronteira?",
+  "a": 10,
+  "u": "países",
+  "f": "Na América do Sul, só Chile e Equador não fazem fronteira com o Brasil."
+ },
+ {
+  "id": "b003",
+  "c": "brasil",
+  "q": "Em que ano a esquadra de Pedro Álvares Cabral chegou ao Brasil?",
+  "a": 1500,
+  "u": "ano",
+  "f": "A chegada foi em 22 de abril de 1500, no litoral da Bahia."
+ },
+ {
+  "id": "b004",
+  "c": "brasil",
+  "q": "Em que ano foi proclamada a Independência do Brasil?",
+  "a": 1822,
+  "u": "ano",
+  "f": "7 de setembro de 1822, às margens do riacho do Ipiranga."
+ },
+ {
+  "id": "b005",
+  "c": "brasil",
+  "q": "Em que ano foi assinada a Lei Áurea, que aboliu a escravidão no Brasil?",
+  "a": 1888,
+  "u": "ano",
+  "f": "O Brasil foi o último país das Américas a abolir a escravidão."
+ },
+ {
+  "id": "b006",
+  "c": "brasil",
+  "q": "Em que ano foi proclamada a República no Brasil?",
+  "a": 1889,
+  "u": "ano",
+  "f": "15 de novembro de 1889, por Marechal Deodoro da Fonseca."
+ },
+ {
+  "id": "b007",
+  "c": "brasil",
+  "q": "Em que ano Brasília foi inaugurada?",
+  "a": 1960,
+  "u": "ano",
+  "f": "A capital foi erguida em menos de quatro anos."
+ },
+ {
+  "id": "b008",
+  "c": "brasil",
+  "q": "Qual a altura do Cristo Redentor contando o pedestal?",
+  "a": 38,
+  "u": "metros",
+  "f": "A estátua tem 30 m e o pedestal mais 8 m."
+ },
+ {
+  "id": "b009",
+  "c": "brasil",
+  "q": "Em que ano o Cristo Redentor foi inaugurado?",
+  "a": 1931,
+  "u": "ano",
+  "f": "Em 2007 foi eleito uma das Sete Novas Maravilhas do Mundo."
+ },
+ {
+  "id": "b010",
+  "c": "brasil",
+  "q": "Qual a altitude do Pico da Neblina, o ponto mais alto do Brasil?",
+  "a": 2995,
+  "u": "metros",
+  "f": "Medição do IBGE de 2016: 2.995,30 m. Fica no Amazonas, na fronteira com a Venezuela."
+ },
+ {
+  "id": "b011",
+  "c": "brasil",
+  "q": "Quantos quilômetros de litoral tem o Brasil?",
+  "a": 7367,
+  "u": "km",
+  "f": "Segundo o IBGE, são 7.367 km de costa banhada pelo Atlântico."
+ },
+ {
+  "id": "b012",
+  "c": "brasil",
+  "q": "Quantos milhões de habitantes o Brasil tinha no Censo de 2022?",
+  "a": 203.1,
+  "u": "milhões",
+  "f": "203,1 milhões de pessoas, segundo o IBGE."
+ },
+ {
+  "id": "b013",
+  "c": "brasil",
+  "q": "Quantos milhões de km² tem a área do Brasil?",
+  "a": 8.5,
+  "u": "milhões de km²",
+  "f": "Cerca de 8,5 milhões de km²: o 5º maior país do mundo."
+ },
+ {
+  "id": "b014",
+  "c": "brasil",
+  "q": "Quantos anos durou o período do Império no Brasil, de 1822 a 1889?",
+  "a": 67,
+  "u": "anos",
+  "f": "Foram dois imperadores: Dom Pedro I e Dom Pedro II."
+ },
+ {
+  "id": "b015",
+  "c": "brasil",
+  "q": "Quantos anos tinha Dom Pedro II quando foi coroado imperador?",
+  "a": 15,
+  "u": "anos",
+  "f": "Ele foi coroado em 1841, depois do Golpe da Maioridade."
+ },
+ {
+  "id": "b016",
+  "c": "brasil",
+  "q": "Em que ano o Brasil sediou uma Copa do Mundo pela primeira vez?",
+  "a": 1950,
+  "u": "ano",
+  "f": "A final ficou famosa como Maracanazo: o Uruguai venceu o Brasil por 2 a 1."
+ },
+ {
+  "id": "b017",
+  "c": "brasil",
+  "q": "Na final da Copa de 1950, quantos pagantes oficiais estavam no Maracanã?",
+  "a": 173850,
+  "u": "pessoas",
+  "f": "Estima-se que o público real tenha passado de 200 mil pessoas."
+ },
+ {
+  "id": "b018",
+  "c": "brasil",
+  "q": "Qual a capacidade atual do Maracanã?",
+  "a": 78838,
+  "u": "lugares",
+  "f": "Depois da reforma para a Copa de 2014."
+ },
+ {
+  "id": "b019",
+  "c": "brasil",
+  "q": "Em que ano foi lançado o Plano Real?",
+  "a": 1994,
+  "u": "ano",
+  "f": "A nova moeda entrou em circulação em 1º de julho de 1994."
+ },
+ {
+  "id": "b020",
+  "c": "brasil",
+  "q": "Quantas quedas d'água formam as Cataratas do Iguaçu?",
+  "a": 275,
+  "u": "quedas",
+  "f": "O número varia com a vazão do rio, mas o mais citado é 275."
+ },
+ {
+  "id": "b021",
+  "c": "brasil",
+  "q": "Quantas ilhas formam o arquipélago de Fernando de Noronha?",
+  "a": 21,
+  "u": "ilhas",
+  "f": "Só a ilha principal é habitada."
+ },
+ {
+  "id": "b022",
+  "c": "brasil",
+  "q": "Quantos milhões de habitantes tem a cidade de São Paulo (Censo 2022)?",
+  "a": 11.45,
+  "u": "milhões",
+  "f": "Cerca de 11,45 milhões de pessoas: a maior cidade do Brasil."
+ },
+ {
+  "id": "b023",
+  "c": "brasil",
+  "q": "Qual o comprimento da Ponte Rio–Niterói?",
+  "a": 13.29,
+  "u": "km",
+  "f": "Inaugurada em 1974, tem 13,29 km de extensão."
+ },
+ {
+  "id": "b024",
+  "c": "brasil",
+  "q": "Em que ano foi fundada a cidade de São Paulo?",
+  "a": 1554,
+  "u": "ano",
+  "f": "Fundada pelos jesuítas em 25 de janeiro de 1554."
+ },
+ {
+  "id": "b025",
+  "c": "brasil",
+  "q": "Em que ano foi fundada a cidade do Rio de Janeiro?",
+  "a": 1565,
+  "u": "ano",
+  "f": "Fundada por Estácio de Sá em 1º de março de 1565."
+ },
+ {
+  "id": "b026",
+  "c": "brasil",
+  "q": "Quantos fusos horários tem o Brasil?",
+  "a": 4,
+  "u": "fusos",
+  "f": "Vão de UTC−2 (Fernando de Noronha) a UTC−5 (Acre)."
+ },
+ {
+  "id": "b027",
+  "c": "brasil",
+  "q": "Em que ano Santos Dumont voou com o 14-Bis em Paris?",
+  "a": 1906,
+  "u": "ano",
+  "f": "O voo histórico foi em 23 de outubro de 1906."
+ },
+ {
+  "id": "b028",
+  "c": "brasil",
+  "q": "Em que ano foi criado o Pix?",
+  "a": 2020,
+  "u": "ano",
+  "f": "O Pix começou a funcionar em novembro de 2020."
+ },
+ {
+  "id": "b029",
+  "c": "brasil",
+  "q": "Quantos dígitos tem um CPF?",
+  "a": 11,
+  "u": "dígitos",
+  "f": "9 dígitos de base e 2 dígitos verificadores."
+ },
+ {
+  "id": "b030",
+  "c": "brasil",
+  "q": "Quantos dígitos tem um CEP?",
+  "a": 8,
+  "u": "dígitos",
+  "f": "O formato é 00000-000."
+ },
+ {
+  "id": "b031",
+  "c": "corpo",
+  "q": "Quantos ossos tem o corpo de um adulto?",
+  "a": 206,
+  "u": "ossos",
+  "f": "O maior é o fêmur. O menor é o estribo, dentro do ouvido."
+ },
+ {
+  "id": "b032",
+  "c": "corpo",
+  "q": "Quantos ossos tem um bebê ao nascer, aproximadamente?",
+  "a": 300,
+  "u": "ossos",
+  "f": "Cerca de 300. Muitos se fundem durante o crescimento."
+ },
+ {
+  "id": "b033",
+  "c": "corpo",
+  "q": "Quantos dentes tem um adulto, contando os sisos?",
+  "a": 32,
+  "u": "dentes",
+  "f": "Muita gente nunca chega a ter os quatro sisos."
+ },
+ {
+  "id": "b034",
+  "c": "corpo",
+  "q": "Quantos dentes de leite tem uma criança?",
+  "a": 20,
+  "u": "dentes",
+  "f": "Eles começam a cair por volta dos 6 anos."
+ },
+ {
+  "id": "b035",
+  "c": "corpo",
+  "q": "Quantos ossos tem uma mão humana?",
+  "a": 27,
+  "u": "ossos",
+  "f": "Mãos e pés juntos têm mais da metade dos ossos do corpo."
+ },
+ {
+  "id": "b036",
+  "c": "corpo",
+  "q": "Quantos ossos tem um pé humano?",
+  "a": 26,
+  "u": "ossos",
+  "f": "Somando os dois pés são 52 ossos."
+ },
+ {
+  "id": "b037",
+  "c": "corpo",
+  "q": "Quantas vértebras tem a coluna humana?",
+  "a": 33,
+  "u": "vértebras",
+  "f": "7 cervicais, 12 torácicas, 5 lombares, 5 do sacro e 4 do cóccix, fundidas."
+ },
+ {
+  "id": "b038",
+  "c": "corpo",
+  "q": "Quantos pares de costelas tem o corpo humano?",
+  "a": 12,
+  "u": "pares",
+  "f": "São 24 costelas no total."
+ },
+ {
+  "id": "b039",
+  "c": "corpo",
+  "q": "Quantos cromossomos tem uma célula humana comum?",
+  "a": 46,
+  "u": "cromossomos",
+  "f": "São 23 pares: metade vem da mãe e metade do pai."
+ },
+ {
+  "id": "b040",
+  "c": "corpo",
+  "q": "Quantos litros de sangue tem um adulto, em média?",
+  "a": 5,
+  "u": "litros",
+  "f": "Entre 4,5 e 5,5 litros: cerca de 7% do peso do corpo."
+ },
+ {
+  "id": "b041",
+  "c": "corpo",
+  "q": "Quantos quilômetros de vasos sanguíneos tem um adulto?",
+  "a": 100000,
+  "u": "km",
+  "f": "Enfileirados, dariam mais de duas voltas na Terra."
+ },
+ {
+  "id": "b042",
+  "c": "corpo",
+  "q": "Quantos bilhões de neurônios tem o cérebro humano?",
+  "a": 86,
+  "u": "bilhões",
+  "f": "Cerca de 86 bilhões, segundo estudos da neurocientista brasileira Suzana Herculano-Houzel."
+ },
+ {
+  "id": "b043",
+  "c": "corpo",
+  "q": "Quanto pesa o cérebro de um adulto, aproximadamente?",
+  "a": 1400,
+  "u": "gramas",
+  "f": "É cerca de 2% do peso do corpo, mas gasta uns 20% da energia."
+ },
+ {
+  "id": "b044",
+  "c": "corpo",
+  "q": "Quantos fios de cabelo tem uma cabeça humana, em média?",
+  "a": 100000,
+  "u": "fios",
+  "f": "Perdemos de 50 a 100 fios por dia, e isso é normal."
+ },
+ {
+  "id": "b045",
+  "c": "corpo",
+  "q": "Quantos centímetros o cabelo cresce por ano, em média?",
+  "a": 15,
+  "u": "cm",
+  "f": "Mais ou menos 1,25 cm por mês."
+ },
+ {
+  "id": "b046",
+  "c": "corpo",
+  "q": "Quantos dias dura uma gestação humana, em média?",
+  "a": 280,
+  "u": "dias",
+  "f": "São 40 semanas contadas a partir da última menstruação."
+ },
+ {
+  "id": "b047",
+  "c": "corpo",
+  "q": "Quantos ossos existem dentro de cada ouvido?",
+  "a": 3,
+  "u": "ossos",
+  "f": "Martelo, bigorna e estribo."
+ },
+ {
+  "id": "b048",
+  "c": "corpo",
+  "q": "Quantos metros mede o intestino delgado de um adulto, aproximadamente?",
+  "a": 6,
+  "u": "metros",
+  "f": "Cerca de 6 metros, mas varia de pessoa para pessoa."
+ },
+ {
+  "id": "b049",
+  "c": "corpo",
+  "q": "Quantos litros de ar uma pessoa respira por dia, aproximadamente?",
+  "a": 11000,
+  "u": "litros",
+  "f": "Cerca de 11 mil litros de ar por dia."
+ },
+ {
+  "id": "b050",
+  "c": "corpo",
+  "q": "Quantos músculos tem o corpo humano, aproximadamente?",
+  "a": 600,
+  "u": "músculos",
+  "f": "São mais de 600 músculos esqueléticos."
+ },
+ {
+  "id": "b051",
+  "c": "corpo",
+  "q": "Quantas vezes o coração bate por dia, aproximadamente?",
+  "a": 100000,
+  "u": "batidas",
+  "f": "Cerca de 100 mil batidas por dia: mais de 2,5 bilhões ao longo da vida."
+ },
+ {
+  "id": "b052",
+  "c": "corpo",
+  "q": "Quantos ossos formam o crânio humano?",
+  "a": 22,
+  "u": "ossos",
+  "f": "8 ossos do crânio propriamente dito e 14 da face."
+ },
+ {
+  "id": "b053",
+  "c": "corpo",
+  "q": "Quantos sabores básicos a língua consegue identificar?",
+  "a": 5,
+  "u": "sabores",
+  "f": "Doce, salgado, azedo, amargo e umami."
+ },
+ {
+  "id": "b054",
+  "c": "corpo",
+  "q": "Esticado, quantos metros teria o DNA de uma única célula humana?",
+  "a": 2,
+  "u": "metros",
+  "f": "Cerca de 2 metros, enrolados dentro de um núcleo microscópico."
+ },
+ {
+  "id": "b055",
+  "c": "corpo",
+  "q": "Qual a porcentagem de água no corpo de um adulto, aproximadamente?",
+  "a": 60,
+  "u": "%",
+  "f": "Cerca de 60%. Nos bebês chega a uns 75%."
+ },
+ {
+  "id": "b056",
+  "c": "bichos",
+  "q": "Quantas patas tem uma aranha?",
+  "a": 8,
+  "u": "patas",
+  "f": "Aranhas são aracnídeos, não insetos. Insetos têm 6 patas."
+ },
+ {
+  "id": "b057",
+  "c": "bichos",
+  "q": "Quantos olhos tem a maioria das aranhas?",
+  "a": 8,
+  "u": "olhos",
+  "f": "Algumas espécies têm 6, 4, 2 ou até nenhum."
+ },
+ {
+  "id": "b058",
+  "c": "bichos",
+  "q": "Quantos corações tem um polvo?",
+  "a": 3,
+  "u": "corações",
+  "f": "Dois bombeiam sangue para as brânquias e um para o resto do corpo. E o sangue é azul."
+ },
+ {
+  "id": "b059",
+  "c": "bichos",
+  "q": "Quantos braços tem um polvo?",
+  "a": 8,
+  "u": "braços",
+  "f": "Cada braço tem centenas de ventosas."
+ },
+ {
+  "id": "b060",
+  "c": "bichos",
+  "q": "Quantos braços e tentáculos tem uma lula, somando tudo?",
+  "a": 10,
+  "u": "membros",
+  "f": "São 8 braços e 2 tentáculos mais longos."
+ },
+ {
+  "id": "b061",
+  "c": "bichos",
+  "q": "Quantos meses dura a gestação de uma elefanta?",
+  "a": 22,
+  "u": "meses",
+  "f": "É a gestação mais longa entre os mamíferos terrestres."
+ },
+ {
+  "id": "b062",
+  "c": "bichos",
+  "q": "Quantos meses dura a gestação de uma girafa?",
+  "a": 15,
+  "u": "meses",
+  "f": "O filhote nasce caindo de quase 2 metros de altura."
+ },
+ {
+  "id": "b063",
+  "c": "bichos",
+  "q": "Quantos dentes tem um cachorro adulto?",
+  "a": 42,
+  "u": "dentes",
+  "f": "Filhotes têm 28 dentes de leite."
+ },
+ {
+  "id": "b064",
+  "c": "bichos",
+  "q": "Quantos dentes tem um gato adulto?",
+  "a": 30,
+  "u": "dentes",
+  "f": "Filhotes têm 26 dentes de leite."
+ },
+ {
+  "id": "b065",
+  "c": "bichos",
+  "q": "Quantos dedos tem um gato comum, somando as quatro patas?",
+  "a": 18,
+  "u": "dedos",
+  "f": "5 em cada pata da frente e 4 em cada pata de trás."
+ },
+ {
+  "id": "b066",
+  "c": "bichos",
+  "q": "Quantos olhos tem uma abelha?",
+  "a": 5,
+  "u": "olhos",
+  "f": "Dois olhos compostos grandes e três olhos simples no topo da cabeça."
+ },
+ {
+  "id": "b067",
+  "c": "bichos",
+  "q": "Quantas asas tem uma abelha?",
+  "a": 4,
+  "u": "asas",
+  "f": "Dois pares que se prendem durante o voo."
+ },
+ {
+  "id": "b068",
+  "c": "bichos",
+  "q": "Em quantos compartimentos se divide o estômago de uma vaca?",
+  "a": 4,
+  "u": "compartimentos",
+  "f": "Rúmen, retículo, omaso e abomaso."
+ },
+ {
+  "id": "b069",
+  "c": "bichos",
+  "q": "Quantas vértebras tem o pescoço de uma girafa?",
+  "a": 7,
+  "u": "vértebras",
+  "f": "O mesmo número que o nosso. Cada uma pode ter mais de 25 cm."
+ },
+ {
+  "id": "b070",
+  "c": "bichos",
+  "q": "Quantas patas tem um inseto?",
+  "a": 6,
+  "u": "patas",
+  "f": "Esse é justamente um dos critérios para ser inseto."
+ },
+ {
+  "id": "b071",
+  "c": "bichos",
+  "q": "Quantos metros pode medir uma baleia-azul adulta?",
+  "a": 30,
+  "u": "metros",
+  "f": "É o maior animal que já existiu na Terra, até onde se sabe."
+ },
+ {
+  "id": "b072",
+  "c": "bichos",
+  "q": "Quantas patas tem um caranguejo, contando as garras?",
+  "a": 10,
+  "u": "patas",
+  "f": "Ele é um decápode: deca = dez, podos = pés."
+ },
+ {
+  "id": "b073",
+  "c": "bichos",
+  "q": "Qual a maior velocidade já registrada de um falcão-peregrino em mergulho?",
+  "a": 389,
+  "u": "km/h",
+  "f": "É o animal mais rápido do mundo."
+ },
+ {
+  "id": "b074",
+  "c": "bichos",
+  "q": "Por quantos minutos um hipopótamo consegue prender a respiração?",
+  "a": 5,
+  "u": "minutos",
+  "f": "Ele até dorme debaixo d'água e sobe para respirar sem acordar."
+ },
+ {
+  "id": "b075",
+  "c": "bichos",
+  "q": "Até quantas vezes por minuto o coração de um beija-flor pode bater?",
+  "a": 1200,
+  "u": "batidas",
+  "f": "Em repouso, bate bem menos: algumas centenas de vezes por minuto."
+ },
+ {
+  "id": "b076",
+  "c": "bichos",
+  "q": "Quantos dias vive uma abelha operária no verão, em média?",
+  "a": 40,
+  "u": "dias",
+  "f": "Cerca de 5 a 6 semanas, de tanto trabalhar."
+ },
+ {
+  "id": "b077",
+  "c": "bichos",
+  "q": "Quantos ovos uma galinha poedeira bota por ano, aproximadamente?",
+  "a": 300,
+  "u": "ovos",
+  "f": "Galinhas caipiras botam bem menos."
+ },
+ {
+  "id": "b078",
+  "c": "bichos",
+  "q": "Quantos quilos de comida um elefante pode comer por dia?",
+  "a": 150,
+  "u": "kg",
+  "f": "E passa até 16 horas por dia comendo."
+ },
+ {
+  "id": "b079",
+  "c": "bichos",
+  "q": "Quantos gramas pesa o beija-flor-abelha, a menor ave do mundo?",
+  "a": 2,
+  "u": "gramas",
+  "f": "Vive em Cuba e pesa menos que uma moeda."
+ },
+ {
+  "id": "b080",
+  "c": "bichos",
+  "q": "Jonathan, a tartaruga mais velha conhecida, nasceu por volta de que ano?",
+  "a": 1832,
+  "u": "ano",
+  "f": "Vive na ilha de Santa Helena e é considerada o animal terrestre mais velho do mundo."
+ },
+ {
+  "id": "b081",
+  "c": "bichos",
+  "q": "Quantos gramas pesa um ovo de avestruz, aproximadamente?",
+  "a": 1400,
+  "u": "gramas",
+  "f": "Equivale a uns 24 ovos de galinha."
+ },
+ {
+  "id": "b082",
+  "c": "bichos",
+  "q": "Quantos ovos uma tartaruga-marinha bota por ninho, em média?",
+  "a": 100,
+  "u": "ovos",
+  "f": "Só uma pequena parte dos filhotes chega à vida adulta."
+ },
+ {
+  "id": "b083",
+  "c": "bichos",
+  "q": "Quantos dedos tem uma avestruz em cada pé?",
+  "a": 2,
+  "u": "dedos",
+  "f": "É a única ave com só dois dedos."
+ },
+ {
+  "id": "b084",
+  "c": "bichos",
+  "q": "Quantas corcovas tem um dromedário?",
+  "a": 1,
+  "u": "corcova",
+  "f": "O camelo-bactriano é que tem duas. E a corcova guarda gordura, não água."
+ },
+ {
+  "id": "b085",
+  "c": "comida",
+  "q": "Quantos litros de leite são necessários para fazer 1 kg de queijo, aproximadamente?",
+  "a": 10,
+  "u": "litros",
+  "f": "Varia com o tipo de queijo. Os mais duros pedem ainda mais leite."
+ },
+ {
+  "id": "b086",
+  "c": "comida",
+  "q": "Quantas sementes tem um morango, em média?",
+  "a": 200,
+  "u": "sementes",
+  "f": "E elas ficam do lado de fora."
+ },
+ {
+  "id": "b087",
+  "c": "comida",
+  "q": "Quantas calorias tem 1 grama de gordura?",
+  "a": 9,
+  "u": "kcal",
+  "f": "Mais que o dobro de 1 grama de carboidrato ou de proteína."
+ },
+ {
+  "id": "b088",
+  "c": "comida",
+  "q": "Quantas calorias tem 1 grama de carboidrato?",
+  "a": 4,
+  "u": "kcal",
+  "f": "A proteína também tem 4 kcal por grama."
+ },
+ {
+  "id": "b089",
+  "c": "comida",
+  "q": "Qual a porcentagem de água em uma melancia?",
+  "a": 92,
+  "u": "%",
+  "f": "Por isso ela é tão refrescante."
+ },
+ {
+  "id": "b090",
+  "c": "comida",
+  "q": "Qual a porcentagem de água em um pepino?",
+  "a": 96,
+  "u": "%",
+  "f": "É um dos alimentos com mais água."
+ },
+ {
+  "id": "b091",
+  "c": "comida",
+  "q": "Mel encontrado em tumbas egípcias ainda estava comestível. Quantos anos ele tinha?",
+  "a": 3000,
+  "u": "anos",
+  "f": "O mel quase não estraga, graças ao pouco teor de água e à acidez."
+ },
+ {
+  "id": "b092",
+  "c": "comida",
+  "q": "Em que ano foi criada a Coca-Cola?",
+  "a": 1886,
+  "u": "ano",
+  "f": "Foi inventada pelo farmacêutico John Pemberton, em Atlanta."
+ },
+ {
+  "id": "b093",
+  "c": "comida",
+  "q": "Quantas colheres de chá cabem em uma colher de sopa?",
+  "a": 3,
+  "u": "colheres",
+  "f": "Na medida culinária padrão."
+ },
+ {
+  "id": "b094",
+  "c": "comida",
+  "q": "Quantos mililitros tem uma xícara na medida culinária padrão?",
+  "a": 240,
+  "u": "ml",
+  "f": "Uma xícara de chá padrão de receita."
+ },
+ {
+  "id": "b095",
+  "c": "comida",
+  "q": "Segundo a tradição, em que ano foi criada a pizza Margherita?",
+  "a": 1889,
+  "u": "ano",
+  "f": "Homenagem à rainha Margherita, com as cores da bandeira italiana."
+ },
+ {
+  "id": "b096",
+  "c": "comida",
+  "q": "Quantos litros de água são gastos para produzir 1 kg de carne bovina?",
+  "a": 15400,
+  "u": "litros",
+  "f": "Estimativa da Water Footprint Network, contando a água do pasto e da ração."
+ },
+ {
+  "id": "b097",
+  "c": "comida",
+  "q": "Quantos litros de água são gastos para produzir uma xícara de café?",
+  "a": 140,
+  "u": "litros",
+  "f": "A maior parte vai no cultivo do café."
+ },
+ {
+  "id": "b098",
+  "c": "comida",
+  "q": "Ao nível do mar, a quantos graus Celsius a água ferve?",
+  "a": 100,
+  "u": "°C",
+  "f": "No alto de montanhas ela ferve a temperaturas menores."
+ },
+ {
+  "id": "b099",
+  "c": "comida",
+  "q": "Com quantos anos um pé de café começa a produzir frutos, em geral?",
+  "a": 3,
+  "u": "anos",
+  "f": "E pode continuar produzindo por décadas."
+ },
+ {
+  "id": "b100",
+  "c": "comida",
+  "q": "Em que ano a casquinha de sorvete ficou famosa, na Feira Mundial de St. Louis?",
+  "a": 1904,
+  "u": "ano",
+  "f": "Diz a lenda que um sorveteiro ficou sem copinhos e pediu ajuda a um vendedor de waffles."
+ },
+ {
+  "id": "b101",
+  "c": "comida",
+  "q": "Em que ano foi criado o Big Mac?",
+  "a": 1967,
+  "u": "ano",
+  "f": "Nasceu em uma franquia de Pittsburgh, nos Estados Unidos."
+ },
+ {
+  "id": "b102",
+  "c": "comida",
+  "q": "Em que ano foi inventado o macarrão instantâneo?",
+  "a": 1958,
+  "u": "ano",
+  "f": "Criado por Momofuku Ando, no Japão."
+ },
+ {
+  "id": "b103",
+  "c": "comida",
+  "q": "Quantos litros de seiva de bordo são necessários para fazer 1 litro de xarope de bordo?",
+  "a": 40,
+  "u": "litros",
+  "f": "A seiva é quase só água. É preciso ferver muito."
+ },
+ {
+  "id": "b104",
+  "c": "comida",
+  "q": "Quantas Scoville tem a pimenta Pepper X, recordista do Guinness em 2023?",
+  "a": 2693000,
+  "u": "SHU",
+  "f": "Uma pimenta jalapeño fica entre 2.500 e 8.000 SHU."
+ },
+ {
+  "id": "b105",
+  "c": "comida",
+  "q": "Em que ano foi criado o chocolate ao leite?",
+  "a": 1875,
+  "u": "ano",
+  "f": "Criado pelo suíço Daniel Peter, usando leite condensado."
+ },
+ {
+  "id": "b106",
+  "c": "comida",
+  "q": "Em que ano foi lançado o Guaraná Antarctica?",
+  "a": 1921,
+  "u": "ano",
+  "f": "O guaraná é uma fruta nativa da Amazônia."
+ },
+ {
+  "id": "b107",
+  "c": "comida",
+  "q": "Em que ano o Nescau foi lançado no Brasil?",
+  "a": 1932,
+  "u": "ano",
+  "f": "No começo o nome era Nescao."
+ },
+ {
+  "id": "b108",
+  "c": "comida",
+  "q": "Quantas calorias tem uma colher de sopa de azeite, aproximadamente?",
+  "a": 120,
+  "u": "kcal",
+  "f": "Cerca de 120 kcal em 13,5 g."
+ },
+ {
+  "id": "b109",
+  "c": "comida",
+  "q": "Quantos mililitros tem uma lata de refrigerante padrão no Brasil?",
+  "a": 350,
+  "u": "ml",
+  "f": "A garrafinha long neck tem 355 ml."
+ },
+ {
+  "id": "b110",
+  "c": "espaco",
+  "q": "Quantos planetas tem o Sistema Solar?",
+  "a": 8,
+  "u": "planetas",
+  "f": "Plutão foi rebaixado a planeta-anão em 2006."
+ },
+ {
+  "id": "b111",
+  "c": "espaco",
+  "q": "Em que ano Plutão deixou de ser considerado planeta?",
+  "a": 2006,
+  "u": "ano",
+  "f": "A decisão foi da União Astronômica Internacional."
+ },
+ {
+  "id": "b112",
+  "c": "espaco",
+  "q": "Quantas luas tem Marte?",
+  "a": 2,
+  "u": "luas",
+  "f": "Fobos e Deimos: medo e terror, em grego."
+ },
+ {
+  "id": "b113",
+  "c": "espaco",
+  "q": "Qual a distância média entre a Terra e a Lua?",
+  "a": 384400,
+  "u": "km",
+  "f": "A Lua se afasta da Terra cerca de 3,8 cm por ano."
+ },
+ {
+  "id": "b114",
+  "c": "espaco",
+  "q": "Quantos minutos a luz do Sol leva para chegar à Terra?",
+  "a": 8.3,
+  "u": "minutos",
+  "f": "Cerca de 8 minutos e 20 segundos."
+ },
+ {
+  "id": "b115",
+  "c": "espaco",
+  "q": "Qual a temperatura da superfície do Sol, aproximadamente?",
+  "a": 5500,
+  "u": "°C",
+  "f": "O núcleo passa de 15 milhões de graus."
+ },
+ {
+  "id": "b116",
+  "c": "espaco",
+  "q": "Em que ano o ser humano pisou na Lua pela primeira vez?",
+  "a": 1969,
+  "u": "ano",
+  "f": "Neil Armstrong, na missão Apollo 11, em 20 de julho de 1969."
+ },
+ {
+  "id": "b117",
+  "c": "espaco",
+  "q": "Quantas pessoas já caminharam na superfície da Lua?",
+  "a": 12,
+  "u": "pessoas",
+  "f": "Todas entre 1969 e 1972, nas missões Apollo."
+ },
+ {
+  "id": "b118",
+  "c": "espaco",
+  "q": "Quantos dias Marte leva para dar uma volta completa no Sol?",
+  "a": 687,
+  "u": "dias",
+  "f": "Quase dois anos terrestres."
+ },
+ {
+  "id": "b119",
+  "c": "espaco",
+  "q": "Quantos dias Mercúrio leva para dar uma volta completa no Sol?",
+  "a": 88,
+  "u": "dias",
+  "f": "É o planeta mais rápido do Sistema Solar."
+ },
+ {
+  "id": "b120",
+  "c": "espaco",
+  "q": "Quantas Terras caberiam dentro do Sol, aproximadamente?",
+  "a": 1300000,
+  "u": "Terras",
+  "f": "Cerca de 1,3 milhão."
+ },
+ {
+  "id": "b121",
+  "c": "espaco",
+  "q": "Qual a velocidade da luz no vácuo?",
+  "a": 299792,
+  "u": "km/s",
+  "f": "Daria mais de 7 voltas na Terra em um segundo."
+ },
+ {
+  "id": "b122",
+  "c": "espaco",
+  "q": "Qual o diâmetro da Terra?",
+  "a": 12742,
+  "u": "km",
+  "f": "Medido de lado a lado, passando pelo centro."
+ },
+ {
+  "id": "b123",
+  "c": "espaco",
+  "q": "Qual o diâmetro da Lua?",
+  "a": 3474,
+  "u": "km",
+  "f": "Pouco mais de um quarto do diâmetro da Terra."
+ },
+ {
+  "id": "b124",
+  "c": "espaco",
+  "q": "Quantas horas dura um dia em Júpiter?",
+  "a": 9.9,
+  "u": "horas",
+  "f": "É o planeta que gira mais rápido: cerca de 9 horas e 56 minutos."
+ },
+ {
+  "id": "b125",
+  "c": "espaco",
+  "q": "Um dia em Vênus dura quantos dias da Terra?",
+  "a": 243,
+  "u": "dias",
+  "f": "E o ano de Vênus dura só 225 dias: lá o dia é mais longo que o ano!"
+ },
+ {
+  "id": "b126",
+  "c": "espaco",
+  "q": "Quantos bilhões de anos tem o Universo?",
+  "a": 13.8,
+  "u": "bilhões de anos",
+  "f": "Estimativa baseada na radiação cósmica de fundo."
+ },
+ {
+  "id": "b127",
+  "c": "espaco",
+  "q": "Quantos bilhões de anos tem a Terra?",
+  "a": 4.5,
+  "u": "bilhões de anos",
+  "f": "Cerca de 4,54 bilhões de anos."
+ },
+ {
+  "id": "b128",
+  "c": "espaco",
+  "q": "A que altitude orbita a Estação Espacial Internacional, aproximadamente?",
+  "a": 400,
+  "u": "km",
+  "f": "Mais ou menos a distância entre São Paulo e o Rio de Janeiro."
+ },
+ {
+  "id": "b129",
+  "c": "espaco",
+  "q": "Quantos minutos a Estação Espacial leva para dar uma volta na Terra?",
+  "a": 92,
+  "u": "minutos",
+  "f": "Os astronautas veem cerca de 16 nasceres do sol por dia."
+ },
+ {
+  "id": "b130",
+  "c": "espaco",
+  "q": "Qual a temperatura média na superfície de Vênus?",
+  "a": 465,
+  "u": "°C",
+  "f": "Quente o bastante para derreter chumbo. É o planeta mais quente."
+ },
+ {
+  "id": "b131",
+  "c": "espaco",
+  "q": "Quantos anos-luz separam a Terra da estrela mais próxima depois do Sol?",
+  "a": 4.2,
+  "u": "anos-luz",
+  "f": "É a Proxima Centauri."
+ },
+ {
+  "id": "b132",
+  "c": "espaco",
+  "q": "Em que ano foi lançado o Sputnik, o primeiro satélite artificial?",
+  "a": 1957,
+  "u": "ano",
+  "f": "Lançado pela União Soviética."
+ },
+ {
+  "id": "b133",
+  "c": "espaco",
+  "q": "Em que ano Yuri Gagarin se tornou o primeiro ser humano no espaço?",
+  "a": 1961,
+  "u": "ano",
+  "f": "Ele disse: 'A Terra é azul'."
+ },
+ {
+  "id": "b134",
+  "c": "espaco",
+  "q": "A gravidade da Lua é quantos por cento da gravidade da Terra?",
+  "a": 16.5,
+  "u": "%",
+  "f": "Mais ou menos 1/6. Quem pesa 60 kg aqui sentiria uns 10 kg lá."
+ },
+ {
+  "id": "b135",
+  "c": "espaco",
+  "q": "A que velocidade a Terra gira na linha do Equador?",
+  "a": 1670,
+  "u": "km/h",
+  "f": "E nem sentimos nada."
+ },
+ {
+  "id": "b136",
+  "c": "espaco",
+  "q": "A que velocidade a Terra viaja ao redor do Sol?",
+  "a": 107000,
+  "u": "km/h",
+  "f": "Cerca de 30 km por segundo."
+ },
+ {
+  "id": "b137",
+  "c": "espaco",
+  "q": "De quantos em quantos anos o cometa Halley passa perto da Terra?",
+  "a": 76,
+  "u": "anos",
+  "f": "A próxima passagem está prevista para 2061."
+ },
+ {
+  "id": "b138",
+  "c": "espaco",
+  "q": "Em que ano o cometa Halley deve voltar a passar perto da Terra?",
+  "a": 2061,
+  "u": "ano",
+  "f": "A última passagem foi em 1986."
+ },
+ {
+  "id": "b139",
+  "c": "espaco",
+  "q": "Quantas luas tem a Terra?",
+  "a": 1,
+  "u": "lua",
+  "f": "Pegadinha clássica: só uma, a Lua."
+ },
+ {
+  "id": "b140",
+  "c": "esporte",
+  "q": "Quantos jogadores cada time tem em campo no futebol?",
+  "a": 11,
+  "u": "jogadores",
+  "f": "Contando o goleiro."
+ },
+ {
+  "id": "b141",
+  "c": "esporte",
+  "q": "Quantos minutos dura uma partida de futebol, sem acréscimos?",
+  "a": 90,
+  "u": "minutos",
+  "f": "Dois tempos de 45 minutos."
+ },
+ {
+  "id": "b142",
+  "c": "esporte",
+  "q": "Quantos quilômetros tem uma maratona?",
+  "a": 42.195,
+  "u": "km",
+  "f": "A distância exata foi definida nas Olimpíadas de Londres, em 1908."
+ },
+ {
+  "id": "b143",
+  "c": "esporte",
+  "q": "Qual o recorde mundial dos 100 metros rasos masculino?",
+  "a": 9.58,
+  "u": "segundos",
+  "f": "Usain Bolt, em Berlim, em 2009."
+ },
+ {
+  "id": "b144",
+  "c": "esporte",
+  "q": "Em que ano Usain Bolt fez o recorde mundial dos 100 metros?",
+  "a": 2009,
+  "u": "ano",
+  "f": "9,58 segundos, no Mundial de Berlim."
+ },
+ {
+  "id": "b145",
+  "c": "esporte",
+  "q": "Quantos buracos tem um campo de golfe oficial?",
+  "a": 18,
+  "u": "buracos",
+  "f": "Alguns campos menores têm 9."
+ },
+ {
+  "id": "b146",
+  "c": "esporte",
+  "q": "Quantos pontos vale um touchdown no futebol americano?",
+  "a": 6,
+  "u": "pontos",
+  "f": "Depois ainda dá para tentar mais 1 ou 2 pontos extras."
+ },
+ {
+  "id": "b147",
+  "c": "esporte",
+  "q": "Qual a altura oficial do aro de basquete?",
+  "a": 305,
+  "u": "cm",
+  "f": "3,05 metros, ou 10 pés."
+ },
+ {
+  "id": "b148",
+  "c": "esporte",
+  "q": "Quantos jogadores cada time tem em quadra no vôlei?",
+  "a": 6,
+  "u": "jogadores",
+  "f": "No vôlei de praia são só 2."
+ },
+ {
+  "id": "b149",
+  "c": "esporte",
+  "q": "Quantos jogadores cada time tem em quadra no basquete?",
+  "a": 5,
+  "u": "jogadores",
+  "f": "E cada time pode ter até 12 inscritos por jogo."
+ },
+ {
+  "id": "b150",
+  "c": "esporte",
+  "q": "Quantas medalhas de ouro olímpicas Michael Phelps ganhou?",
+  "a": 23,
+  "u": "ouros",
+  "f": "É o maior medalhista da história das Olimpíadas."
+ },
+ {
+  "id": "b151",
+  "c": "esporte",
+  "q": "Quantos aros tem o símbolo olímpico?",
+  "a": 5,
+  "u": "aros",
+  "f": "Representam os cinco continentes habitados."
+ },
+ {
+  "id": "b152",
+  "c": "esporte",
+  "q": "Quantos gols o Brasil marcou na Copa de 2002?",
+  "a": 18,
+  "u": "gols",
+  "f": "Ronaldo fez 8 deles e foi o artilheiro."
+ },
+ {
+  "id": "b153",
+  "c": "esporte",
+  "q": "Até a Copa de 2022, quantas Copas do Mundo o Brasil tinha ganhado?",
+  "a": 5,
+  "u": "Copas",
+  "f": "1958, 1962, 1970, 1994 e 2002."
+ },
+ {
+  "id": "b154",
+  "c": "esporte",
+  "q": "Em que ano o Brasil ganhou sua primeira Copa do Mundo?",
+  "a": 1958,
+  "u": "ano",
+  "f": "Na Suécia, com Pelé aos 17 anos."
+ },
+ {
+  "id": "b155",
+  "c": "esporte",
+  "q": "Quantos gols Pelé marcou em Copas do Mundo?",
+  "a": 12,
+  "u": "gols",
+  "f": "Em quatro Copas: 1958, 1962, 1966 e 1970."
+ },
+ {
+  "id": "b156",
+  "c": "esporte",
+  "q": "Quantos gols Marta marcou em Copas do Mundo?",
+  "a": 17,
+  "u": "gols",
+  "f": "É a maior artilheira da história das Copas, entre homens e mulheres."
+ },
+ {
+  "id": "b157",
+  "c": "esporte",
+  "q": "Em que ano foi disputado o primeiro Campeonato Mundial de Fórmula 1?",
+  "a": 1950,
+  "u": "ano",
+  "f": "O primeiro campeão foi o italiano Giuseppe Farina."
+ },
+ {
+  "id": "b158",
+  "c": "esporte",
+  "q": "Quantos títulos mundiais de Fórmula 1 Ayrton Senna conquistou?",
+  "a": 3,
+  "u": "títulos",
+  "f": "1988, 1990 e 1991, todos pela McLaren."
+ },
+ {
+  "id": "b159",
+  "c": "esporte",
+  "q": "Quantas voltas tem o Grande Prêmio de São Paulo, em Interlagos?",
+  "a": 71,
+  "u": "voltas",
+  "f": "A pista tem pouco mais de 4,3 km."
+ },
+ {
+  "id": "b160",
+  "c": "esporte",
+  "q": "Qual o comprimento de uma piscina olímpica?",
+  "a": 50,
+  "u": "metros",
+  "f": "E a largura é de 25 metros."
+ },
+ {
+  "id": "b161",
+  "c": "esporte",
+  "q": "Quantos pinos são usados no boliche?",
+  "a": 10,
+  "u": "pinos",
+  "f": "Arrumados em um triângulo."
+ },
+ {
+  "id": "b162",
+  "c": "esporte",
+  "q": "Qual a largura oficial de um gol de futebol?",
+  "a": 7.32,
+  "u": "metros",
+  "f": "São 8 jardas. A altura é de 2,44 m, ou 8 pés."
+ },
+ {
+  "id": "b163",
+  "c": "esporte",
+  "q": "Qual a altura oficial de um gol de futebol?",
+  "a": 2.44,
+  "u": "metros",
+  "f": "São 8 pés. A largura é de 7,32 m."
+ },
+ {
+  "id": "b164",
+  "c": "esporte",
+  "q": "Quantos quilômetros tem a Corrida de São Silvestre?",
+  "a": 15,
+  "u": "km",
+  "f": "É disputada em São Paulo todo dia 31 de dezembro."
+ },
+ {
+  "id": "b165",
+  "c": "esporte",
+  "q": "Quantos minutos dura cada quarto de um jogo da NBA?",
+  "a": 12,
+  "u": "minutos",
+  "f": "Na FIBA e nas Olimpíadas, cada quarto tem 10 minutos."
+ },
+ {
+  "id": "b166",
+  "c": "esporte",
+  "q": "Quantos rounds tem uma luta de boxe profissional por título mundial?",
+  "a": 12,
+  "u": "rounds",
+  "f": "Cada round dura 3 minutos."
+ },
+ {
+  "id": "b167",
+  "c": "esporte",
+  "q": "Qual o recorde mundial do salto em altura masculino?",
+  "a": 245,
+  "u": "cm",
+  "f": "2,45 m, de Javier Sotomayor, em 1993."
+ },
+ {
+  "id": "b168",
+  "c": "esporte",
+  "q": "Quantas medalhas de ouro o Brasil ganhou nas Olimpíadas de Paris 2024?",
+  "a": 3,
+  "u": "ouros",
+  "f": "Bia Souza no judô, Rebeca Andrade na ginástica e Ana Patrícia e Duda no vôlei de praia."
+ },
+ {
+  "id": "b169",
+  "c": "esporte",
+  "q": "Quantos títulos de Roland Garros Gustavo Kuerten conquistou?",
+  "a": 3,
+  "u": "títulos",
+  "f": "1997, 2000 e 2001."
+ },
+ {
+  "id": "b170",
+  "c": "mundo",
+  "q": "Quantos países são membros da ONU?",
+  "a": 193,
+  "u": "países",
+  "f": "Vaticano e Palestina são Estados observadores."
+ },
+ {
+  "id": "b171",
+  "c": "mundo",
+  "q": "Em que ano a população mundial passou de 8 bilhões, segundo a ONU?",
+  "a": 2022,
+  "u": "ano",
+  "f": "A marca simbólica foi em 15 de novembro de 2022."
+ },
+ {
+  "id": "b172",
+  "c": "mundo",
+  "q": "Qual a altitude do Monte Everest?",
+  "a": 8849,
+  "u": "metros",
+  "f": "8.848,86 m, segundo medição de China e Nepal em 2020."
+ },
+ {
+  "id": "b173",
+  "c": "mundo",
+  "q": "Qual a altura da Torre Eiffel?",
+  "a": 330,
+  "u": "metros",
+  "f": "Com as antenas. Ela cresce uns 15 cm no verão, por causa do calor."
+ },
+ {
+  "id": "b174",
+  "c": "mundo",
+  "q": "Em que ano a Torre Eiffel foi inaugurada?",
+  "a": 1889,
+  "u": "ano",
+  "f": "Para a Exposição Universal de Paris. Era para ser temporária!"
+ },
+ {
+  "id": "b175",
+  "c": "mundo",
+  "q": "Quantos degraus tem a Torre Eiffel até o topo?",
+  "a": 1665,
+  "u": "degraus",
+  "f": "O público só pode subir a pé até o segundo andar."
+ },
+ {
+  "id": "b176",
+  "c": "mundo",
+  "q": "Qual o comprimento total da Muralha da China, contando todos os trechos?",
+  "a": 21196,
+  "u": "km",
+  "f": "Medição oficial chinesa de 2012."
+ },
+ {
+  "id": "b177",
+  "c": "mundo",
+  "q": "Em que ano caiu o Muro de Berlim?",
+  "a": 1989,
+  "u": "ano",
+  "f": "Em 9 de novembro de 1989."
+ },
+ {
+  "id": "b178",
+  "c": "mundo",
+  "q": "Em que ano o Titanic afundou?",
+  "a": 1912,
+  "u": "ano",
+  "f": "Na viagem inaugural, em abril de 1912."
+ },
+ {
+  "id": "b179",
+  "c": "mundo",
+  "q": "Quantas pessoas estavam a bordo do Titanic, aproximadamente?",
+  "a": 2224,
+  "u": "pessoas",
+  "f": "Mais de 1.500 morreram."
+ },
+ {
+  "id": "b180",
+  "c": "mundo",
+  "q": "Quantos anos durou a Guerra dos Cem Anos?",
+  "a": 116,
+  "u": "anos",
+  "f": "De 1337 a 1453, entre Inglaterra e França."
+ },
+ {
+  "id": "b181",
+  "c": "mundo",
+  "q": "Qual era a altura original da Grande Pirâmide de Gizé?",
+  "a": 146.6,
+  "u": "metros",
+  "f": "Foi a construção mais alta do mundo por cerca de 3.800 anos."
+ },
+ {
+  "id": "b182",
+  "c": "mundo",
+  "q": "Em que ano começou a Revolução Francesa?",
+  "a": 1789,
+  "u": "ano",
+  "f": "A Queda da Bastilha foi em 14 de julho de 1789."
+ },
+ {
+  "id": "b183",
+  "c": "mundo",
+  "q": "Qual a altura do Burj Khalifa, o prédio mais alto do mundo?",
+  "a": 828,
+  "u": "metros",
+  "f": "Fica em Dubai e foi inaugurado em 2010."
+ },
+ {
+  "id": "b184",
+  "c": "mundo",
+  "q": "Quantos andares tem o Burj Khalifa?",
+  "a": 163,
+  "u": "andares",
+  "f": "O elevador sobe a cerca de 10 metros por segundo."
+ },
+ {
+  "id": "b185",
+  "c": "mundo",
+  "q": "Por volta de que ano Gutenberg criou a prensa de tipos móveis?",
+  "a": 1440,
+  "u": "ano",
+  "f": "A Bíblia de Gutenberg foi impressa por volta de 1455."
+ },
+ {
+  "id": "b186",
+  "c": "mundo",
+  "q": "Qual a profundidade do ponto mais fundo do oceano, na Fossa das Marianas?",
+  "a": 10935,
+  "u": "metros",
+  "f": "As medições variam um pouco, mas ficam perto de 11 mil metros."
+ },
+ {
+  "id": "b187",
+  "c": "mundo",
+  "q": "Quantos idiomas são falados no mundo hoje, aproximadamente?",
+  "a": 7000,
+  "u": "idiomas",
+  "f": "Cerca de 40% deles correm risco de desaparecer."
+ },
+ {
+  "id": "b188",
+  "c": "mundo",
+  "q": "Em que ano começou a Primeira Guerra Mundial?",
+  "a": 1914,
+  "u": "ano",
+  "f": "Durou até 1918."
+ },
+ {
+  "id": "b189",
+  "c": "mundo",
+  "q": "Em que ano terminou a Segunda Guerra Mundial?",
+  "a": 1945,
+  "u": "ano",
+  "f": "Começou em 1939."
+ },
+ {
+  "id": "b190",
+  "c": "mundo",
+  "q": "Quantos idiomas oficiais tem a Suíça?",
+  "a": 4,
+  "u": "idiomas",
+  "f": "Alemão, francês, italiano e romanche."
+ },
+ {
+  "id": "b191",
+  "c": "mundo",
+  "q": "Quantos fusos horários tem a Rússia?",
+  "a": 11,
+  "u": "fusos",
+  "f": "É o país com mais fusos em território contínuo."
+ },
+ {
+  "id": "b192",
+  "c": "mundo",
+  "q": "Quantos países fazem parte da União Europeia?",
+  "a": 27,
+  "u": "países",
+  "f": "O Reino Unido saiu em 2020."
+ },
+ {
+  "id": "b193",
+  "c": "mundo",
+  "q": "Quantos países existem na África?",
+  "a": 54,
+  "u": "países",
+  "f": "É o continente com mais países."
+ },
+ {
+  "id": "b194",
+  "c": "mundo",
+  "q": "Quantos países existem na América do Sul?",
+  "a": 12,
+  "u": "países",
+  "f": "A Guiana Francesa é um território da França, não um país."
+ },
+ {
+  "id": "b195",
+  "c": "mundo",
+  "q": "Qual o comprimento do Rio Nilo, aproximadamente?",
+  "a": 6650,
+  "u": "km",
+  "f": "Disputa com o Amazonas o título de rio mais longo do mundo."
+ },
+ {
+  "id": "b196",
+  "c": "mundo",
+  "q": "Em que ano Cristóvão Colombo chegou à América?",
+  "a": 1492,
+  "u": "ano",
+  "f": "Ele achava que tinha chegado às Índias."
+ },
+ {
+  "id": "b197",
+  "c": "mundo",
+  "q": "Qual a altura da Estátua da Liberdade, contando o pedestal?",
+  "a": 93,
+  "u": "metros",
+  "f": "Foi um presente da França aos Estados Unidos."
+ },
+ {
+  "id": "b198",
+  "c": "mundo",
+  "q": "Em que ano a Estátua da Liberdade foi inaugurada?",
+  "a": 1886,
+  "u": "ano",
+  "f": "A estrutura interna foi projetada por Gustave Eiffel."
+ },
+ {
+  "id": "b199",
+  "c": "mundo",
+  "q": "Qual o comprimento do Canal do Panamá, aproximadamente?",
+  "a": 82,
+  "u": "km",
+  "f": "Inaugurado em 1914, liga o Atlântico ao Pacífico."
+ },
+ {
+  "id": "b200",
+  "c": "mundo",
+  "q": "Qual a altitude do Monte Kilimanjaro, o ponto mais alto da África?",
+  "a": 5895,
+  "u": "metros",
+  "f": "Fica na Tanzânia e tem neve perto da Linha do Equador."
+ },
+ {
+  "id": "b201",
+  "c": "mundo",
+  "q": "A partir de quantos km/h de vento um furacão é de categoria 5?",
+  "a": 252,
+  "u": "km/h",
+  "f": "É a categoria máxima da escala Saffir-Simpson."
+ },
+ {
+  "id": "b202",
+  "c": "mundo",
+  "q": "Por volta de que ano Leonardo da Vinci começou a pintar a Mona Lisa?",
+  "a": 1503,
+  "u": "ano",
+  "f": "Ele trabalhou nela por anos e nunca a entregou a quem encomendou."
+ },
+ {
+  "id": "b203",
+  "c": "pop",
+  "q": "Em que ano foi lançado o primeiro iPhone?",
+  "a": 2007,
+  "u": "ano",
+  "f": "Apresentado por Steve Jobs em janeiro de 2007."
+ },
+ {
+  "id": "b204",
+  "c": "pop",
+  "q": "Em que ano o Google foi fundado?",
+  "a": 1998,
+  "u": "ano",
+  "f": "Começou numa garagem na Califórnia."
+ },
+ {
+  "id": "b205",
+  "c": "pop",
+  "q": "Em que ano o YouTube foi criado?",
+  "a": 2005,
+  "u": "ano",
+  "f": "O primeiro vídeo se chama 'Me at the zoo' e tem 19 segundos."
+ },
+ {
+  "id": "b206",
+  "c": "pop",
+  "q": "Em que ano o WhatsApp foi criado?",
+  "a": 2009,
+  "u": "ano",
+  "f": "Foi comprado pelo Facebook em 2014."
+ },
+ {
+  "id": "b207",
+  "c": "pop",
+  "q": "Em que ano o Facebook foi criado?",
+  "a": 2004,
+  "u": "ano",
+  "f": "Começou como uma rede para alunos de Harvard."
+ },
+ {
+  "id": "b208",
+  "c": "pop",
+  "q": "Em que ano o Orkut foi lançado?",
+  "a": 2004,
+  "u": "ano",
+  "f": "O Brasil chegou a ser o país com mais usuários do Orkut."
+ },
+ {
+  "id": "b209",
+  "c": "pop",
+  "q": "Em que ano o Instagram foi lançado?",
+  "a": 2010,
+  "u": "ano",
+  "f": "No começo era só para iPhone."
+ },
+ {
+  "id": "b210",
+  "c": "pop",
+  "q": "Quantos caracteres cabiam em um tuíte quando o Twitter foi criado?",
+  "a": 140,
+  "u": "caracteres",
+  "f": "O limite subiu para 280 em 2017."
+ },
+ {
+  "id": "b211",
+  "c": "pop",
+  "q": "Em que ano a internet comercial chegou ao Brasil?",
+  "a": 1995,
+  "u": "ano",
+  "f": "Antes disso, ela era usada só por universidades e centros de pesquisa."
+ },
+ {
+  "id": "b212",
+  "c": "pop",
+  "q": "Em que ano foi enviado o primeiro e-mail?",
+  "a": 1971,
+  "u": "ano",
+  "f": "Enviado por Ray Tomlinson, que escolheu usar o @."
+ },
+ {
+  "id": "b213",
+  "c": "pop",
+  "q": "Em que ano foi enviado o primeiro SMS?",
+  "a": 1992,
+  "u": "ano",
+  "f": "A mensagem dizia 'Merry Christmas'."
+ },
+ {
+  "id": "b214",
+  "c": "pop",
+  "q": "Em que ano a Netflix foi fundada?",
+  "a": 1997,
+  "u": "ano",
+  "f": "Começou alugando DVDs pelo correio."
+ },
+ {
+  "id": "b215",
+  "c": "pop",
+  "q": "Em que ano foi lançado o jogo Super Mario Bros.?",
+  "a": 1985,
+  "u": "ano",
+  "f": "Lançado para o Nintendo Entertainment System."
+ },
+ {
+  "id": "b216",
+  "c": "pop",
+  "q": "Quantos Pokémon existiam na primeira geração?",
+  "a": 151,
+  "u": "Pokémon",
+  "f": "O número 151 é o Mew."
+ },
+ {
+  "id": "b217",
+  "c": "pop",
+  "q": "Em que ano foi criado o Tetris?",
+  "a": 1984,
+  "u": "ano",
+  "f": "Criado por Alexey Pajitnov, na União Soviética."
+ },
+ {
+  "id": "b218",
+  "c": "pop",
+  "q": "Em que ano o primeiro PlayStation foi lançado no Japão?",
+  "a": 1994,
+  "u": "ano",
+  "f": "Em 3 de dezembro de 1994."
+ },
+ {
+  "id": "b219",
+  "c": "pop",
+  "q": "Em que ano foi lançada a versão oficial 1.0 do Minecraft?",
+  "a": 2011,
+  "u": "ano",
+  "f": "É um dos jogos mais vendidos da história."
+ },
+ {
+  "id": "b220",
+  "c": "pop",
+  "q": "Em que ano foi lançado o Game Boy?",
+  "a": 1989,
+  "u": "ano",
+  "f": "Vinha com Tetris na caixa."
+ },
+ {
+  "id": "b221",
+  "c": "pop",
+  "q": "Em que ano foi lançado o Free Fire?",
+  "a": 2017,
+  "u": "ano",
+  "f": "Fez um sucesso enorme no Brasil."
+ },
+ {
+  "id": "b222",
+  "c": "pop",
+  "q": "Em que ano foi publicado o primeiro livro de Harry Potter?",
+  "a": 1997,
+  "u": "ano",
+  "f": "Foi recusado por várias editoras antes de ser publicado."
+ },
+ {
+  "id": "b223",
+  "c": "pop",
+  "q": "Quantos livros tem a série principal de Harry Potter?",
+  "a": 7,
+  "u": "livros",
+  "f": "Um para cada ano em Hogwarts."
+ },
+ {
+  "id": "b224",
+  "c": "pop",
+  "q": "Em que ano estreou o primeiro filme de Harry Potter?",
+  "a": 2001,
+  "u": "ano",
+  "f": "'Harry Potter e a Pedra Filosofal'."
+ },
+ {
+  "id": "b225",
+  "c": "pop",
+  "q": "Em que ano estreou o primeiro Toy Story?",
+  "a": 1995,
+  "u": "ano",
+  "f": "Foi o primeiro longa-metragem feito todo em computação gráfica."
+ },
+ {
+  "id": "b226",
+  "c": "pop",
+  "q": "Em que ano estreou a série Os Simpsons?",
+  "a": 1989,
+  "u": "ano",
+  "f": "É a série animada mais longa da TV americana."
+ },
+ {
+  "id": "b227",
+  "c": "pop",
+  "q": "Em que ano a Wikipédia foi criada?",
+  "a": 2001,
+  "u": "ano",
+  "f": "A versão em português surgiu no mesmo ano."
+ },
+ {
+  "id": "b228",
+  "c": "pop",
+  "q": "Quantos lutadores dava para escolher no Street Fighter II original?",
+  "a": 8,
+  "u": "lutadores",
+  "f": "Entre eles o brasileiro Blanka."
+ },
+ {
+  "id": "b229",
+  "c": "pop",
+  "q": "Quantas teclas tem um piano padrão?",
+  "a": 88,
+  "u": "teclas",
+  "f": "52 brancas e 36 pretas."
+ },
+ {
+  "id": "b230",
+  "c": "pop",
+  "q": "Quantas cordas tem um violão comum?",
+  "a": 6,
+  "u": "cordas",
+  "f": "O cavaquinho tem 4."
+ },
+ {
+  "id": "b231",
+  "c": "pop",
+  "q": "Quantas casas tem um tabuleiro de xadrez?",
+  "a": 64,
+  "u": "casas",
+  "f": "8 por 8, alternando claras e escuras."
+ },
+ {
+  "id": "b232",
+  "c": "pop",
+  "q": "Quantas peças cada jogador tem no início de uma partida de xadrez?",
+  "a": 16,
+  "u": "peças",
+  "f": "8 peões, 2 torres, 2 cavalos, 2 bispos, 1 dama e 1 rei."
+ },
+ {
+  "id": "b233",
+  "c": "pop",
+  "q": "Quantas cartas tem um baralho comum, sem os coringas?",
+  "a": 52,
+  "u": "cartas",
+  "f": "4 naipes de 13 cartas."
+ },
+ {
+  "id": "b234",
+  "c": "pop",
+  "q": "Quantas peças tem um jogo de dominó tradicional?",
+  "a": 28,
+  "u": "peças",
+  "f": "Do 0-0 ao 6-6."
+ },
+ {
+  "id": "b235",
+  "c": "pop",
+  "q": "Quantos adesivos coloridos tem um cubo mágico tradicional?",
+  "a": 54,
+  "u": "adesivos",
+  "f": "9 em cada uma das 6 faces."
+ },
+ {
+  "id": "b236",
+  "c": "pop",
+  "q": "Quantos bits tem um byte?",
+  "a": 8,
+  "u": "bits",
+  "f": "Um bit é um 0 ou um 1."
+ },
+ {
+  "id": "b237",
+  "c": "pop",
+  "q": "Quantas casas tem o tabuleiro do Banco Imobiliário clássico?",
+  "a": 40,
+  "u": "casas",
+  "f": "Inspirado no Monopoly americano."
+ },
+ {
+  "id": "b238",
+  "c": "diaadia",
+  "q": "Quantos segundos tem um dia?",
+  "a": 86400,
+  "u": "segundos",
+  "f": "24 × 60 × 60."
+ },
+ {
+  "id": "b239",
+  "c": "diaadia",
+  "q": "Quantos minutos tem uma semana?",
+  "a": 10080,
+  "u": "minutos",
+  "f": "7 × 24 × 60."
+ },
+ {
+  "id": "b240",
+  "c": "diaadia",
+  "q": "Quantas horas tem um ano que não é bissexto?",
+  "a": 8760,
+  "u": "horas",
+  "f": "365 × 24."
+ },
+ {
+  "id": "b241",
+  "c": "diaadia",
+  "q": "Quantas horas tem uma semana?",
+  "a": 168,
+  "u": "horas",
+  "f": "7 × 24."
+ },
+ {
+  "id": "b242",
+  "c": "diaadia",
+  "q": "Quantos gomos tem uma bola de futebol clássica, de pentágonos e hexágonos?",
+  "a": 32,
+  "u": "gomos",
+  "f": "12 pentágonos pretos e 20 hexágonos brancos."
+ },
+ {
+  "id": "b243",
+  "c": "diaadia",
+  "q": "Quantas letras tem o alfabeto da língua portuguesa hoje?",
+  "a": 26,
+  "u": "letras",
+  "f": "K, W e Y voltaram oficialmente com o Acordo Ortográfico."
+ },
+ {
+  "id": "b244",
+  "c": "diaadia",
+  "q": "Quantas cores tem o arco-íris, na divisão tradicional?",
+  "a": 7,
+  "u": "cores",
+  "f": "Vermelho, laranja, amarelo, verde, azul, anil e violeta."
+ },
+ {
+  "id": "b245",
+  "c": "diaadia",
+  "q": "Quantas notas musicais tem a escala tradicional?",
+  "a": 7,
+  "u": "notas",
+  "f": "Dó, ré, mi, fá, sol, lá, si."
+ },
+ {
+  "id": "b246",
+  "c": "diaadia",
+  "q": "Quantos gramas pesa a moeda de 1 real atual?",
+  "a": 7,
+  "u": "gramas",
+  "f": "A segunda família de moedas existe desde 1998."
+ },
+ {
+  "id": "b247",
+  "c": "diaadia",
+  "q": "Qual o diâmetro da moeda de 1 real atual?",
+  "a": 27,
+  "u": "mm",
+  "f": "É a maior moeda do real em circulação."
+ },
+ {
+  "id": "b248",
+  "c": "diaadia",
+  "q": "Quantos dígitos tem um número de celular brasileiro, contando o DDD?",
+  "a": 11,
+  "u": "dígitos",
+  "f": "2 do DDD e 9 do número."
+ },
+ {
+  "id": "b249",
+  "c": "diaadia",
+  "q": "Qual a altura de uma folha A4?",
+  "a": 29.7,
+  "u": "cm",
+  "f": "E a largura é de 21 cm."
+ },
+ {
+  "id": "b250",
+  "c": "diaadia",
+  "q": "Qual a velocidade máxima para carros em rodovias de pista dupla no Brasil, se não houver placa?",
+  "a": 110,
+  "u": "km/h",
+  "f": "Em pista simples, o limite é 100 km/h."
+ },
+ {
+  "id": "b251",
+  "c": "diaadia",
+  "q": "Quantos dias tem um ano bissexto?",
+  "a": 366,
+  "u": "dias",
+  "f": "O 29 de fevereiro aparece a cada quatro anos, com algumas exceções."
+ },
+ {
+  "id": "b252",
+  "c": "diaadia",
+  "q": "Quantos mililitros tem uma garrafinha long neck?",
+  "a": 355,
+  "u": "ml",
+  "f": "Herança das medidas americanas: 12 onças."
+ },
+ {
+  "id": "b253",
+  "c": "diaadia",
+  "q": "Quantos anos é preciso ter para tirar a carteira de motorista no Brasil?",
+  "a": 18,
+  "u": "anos",
+  "f": "E também é preciso saber ler e escrever."
+ },
+ {
+  "id": "b254",
+  "c": "diaadia",
+  "q": "Quantos centímetros tem uma régua escolar comum?",
+  "a": 30,
+  "u": "cm",
+  "f": "E muita gente já usou como espada."
+ },
+ {
+  "id": "b255",
+  "c": "diaadia",
+  "q": "Quantos dias tem fevereiro em um ano bissexto?",
+  "a": 29,
+  "u": "dias",
+  "f": "Quem nasce em 29 de fevereiro só faz aniversário de verdade a cada 4 anos."
+ },
+ {
+  "id": "b256",
+  "c": "bichos",
+  "q": "Quantos braços tem uma estrela-do-mar comum?",
+  "a": 5,
+  "u": "braços",
+  "f": "A maioria tem 5 braços. Se perder um, pode crescer de novo."
+ }
+]
